@@ -21,7 +21,7 @@ First of all, extract the [psipred-4.0.2.tar.gz] and [ncbi-blast-2.7.1+.tar.gz] 
 ```
 leri_extract -i list_protein -o output -f 1 -w 2 -t train
 ```
-where **-i** is the list file of proteins, **-t** is an indicator of creating trainning data, **-f** is for downloading PDB files or not, **-w** is window size, and **-o** is to output the results in the directory. 
+where **-i** is the list file of proteins, **-t** is an indicator of creating trainning data, **-f** is for downloading PDB files or not, **-w** is window size, and **-o** is to output the results in the directory. Download PDB list from http://dunbrack.fccc.edu/Guoli/pisces_download.php.
 
 
 
